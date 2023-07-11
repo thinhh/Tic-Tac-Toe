@@ -3,6 +3,6 @@
 - Pull the code from GitHub
 - Open with Visual Studio Code
 - Install Live Server from VSCode
-- Right click on index.html and run live server
+- Right click on index.html and run live server <br>
 ![image](image.png)
 - Play the game
